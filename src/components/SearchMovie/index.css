@@ -1,0 +1,16 @@
+.search-input-container {
+  background-color: transparent;
+}
+.search-input {
+  background-color: transparent;
+  color: #ffffff;
+  border-style: none;
+  background-color: transparent;
+}
+.container {
+  display: flex;
+  border-radius: 10px;
+}
+.search-icon {
+  height: 16px;
+}

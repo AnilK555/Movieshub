@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  height: 60px;
+  width: 100%;
+}
+.container-pages {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  width: 10vw;
+}
+.pages {
+  text-decoration: none;
+  color: #ffffff;
+}
+.pages-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  list-style-type: none;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.pages-cont {
+  padding-right: 10px;
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+.sign-button-cont {
+  text-align: right;
+  margin: 20px;
+}
+.images-movies {
+  margin: 20px;
+  height: 27px;
+}
+.button-img {
+  height: 40px;
+  width: 40px;
+  background-color: transparent;
+  border: 0px;
+  border-radius: 20px;
+}
+.image-butn {
+  height: 40px;
+  width: 40px;
+}
+.search {
+  background-color: transparent;
+  border: none;
+}
+.search-icon {
+  background-color: transparent;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+.sign-button-cont {
+  display: flex;
+}
+.search-container {
+  display: flex;
+}
+.search-logo {
+  height: 30px;
+  width: 30px;
+}
+.input-element {
+  background-color: transparent;
+  color: #ffffff;
+}
